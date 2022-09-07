@@ -18,7 +18,7 @@ The nearest aiport to National museum-Delhi is Indira Gandhi International Airpo
   <li>India Gate</li>
   <li>Rastrapathi Bhavan</li>
   <li>connought Place</li>
-  <li>Paliament Palace</li>
+  <li>Parliament Palace</li>
  </ul>
 
 
