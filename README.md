@@ -2,7 +2,8 @@
 # Bindusree Penamalli
 ###### National museum-New Delhi
 The collections of the National Museum represents almost all disciplines of art: **archaeology** (sculptures in stone, bronze and terracota), arms, armour, **decorative arts**, jewellery, manuscripts, **miniatures and Tanjore** paintings, textiles, numismatics, epigraphy, Central Asian antiquities, **anthropology**, **Pre-Columbian** American and **Western Art Collections**.
-<hr>
+
+***
 
 ## Ordered list: Airport to Mueseum Route
 The nearest aiport to National museum-Delhi is Indira Gandhi International Airport
@@ -10,7 +11,7 @@ The nearest aiport to National museum-Delhi is Indira Gandhi International Airpo
 2. Some of them are taxi, selfdrive, metro and bus.
 3. All the transports will take you to a place called Chanikyapuri.
 4. The distance between Airport and Museum is around 13 Kms.
-5. This might take 16 mins of travelling time.
+5.  This might take 16 mins of travelling time.
 6. Once the chanikyapuri station is reached, the muesuem would be right opposite to chanikyapuri station building.
 
 ## Unordered list: Recommended locations around museum
@@ -22,9 +23,18 @@ The nearest aiport to National museum-Delhi is Indira Gandhi International Airpo
 
 [My Final About Me File](aboutme.md)
 
+***
+### Recomended cities for a visit
+Here, I would like to introduce a table with details regards to recommended cities for a visit. The first column would be the name of a city. 
+The second column will be a important location to visit in the city and the third column 
+is the amount of time to spend visiting the important location
  
-
-
+ | Name of the city |Important Location  | Time Spent |
+ | ---------------- | ------------------ | ---------- |
+ | Hyderabad        | Birla Temple       | 02 hours   |     
+ | Bangalore        | Mysore Palace      | 01 hour    |
+ | Chennai          | Tea Nagar          | 1.5 hours  |
+ | Vizag            | Araku Valley       | 1 hours    |   
 
 
 
