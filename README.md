@@ -36,13 +36,44 @@ is the amount of time to spend visiting the important location
  | Chennai          | Tea Nagar          | 1.5 hours  |
  | Vizag            | Araku Valley       | 1 hours    |   
 
-***
+*****
 ### William Shakespeare Quotes
 My two favourite quotes are "To be or not to be: Thats the question. and Be who you are not who the world wants you to be"
 > To be or not to be: Thats the question
 >> Be who you are not who the world wants you to be
 
 The author of the quote is *William Shakespeare*
+
+***
+### Code Fencing
+> How to Send a sms
+<https://stackoverflow.com/questions/2793749/how-to-send-sms>
+
+```
+// Include the TextMagic PHP lib
+require('textmagic-sms-api-php/TextMagicAPI.php');
+
+// Set the username and password information
+$username = 'myusername';
+$password = 'mypassword';
+
+// Create a new instance of TM
+$router = new TextMagicAPI(array(
+	'username' => $username,
+	'password' => $password
+));
+
+// Send a text message to '999-123-4567'
+$result = $router->send('Wake up!', array(9991234567), true);
+
+// result:  Result is: Array ( [messages] => Array ( [19896128] => 9991234567
+
+```
+<https://css-tricks.com/snippets/php/send-a-text-message/>
+
+
+
+
 
 
 
