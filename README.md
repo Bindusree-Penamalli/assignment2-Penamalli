@@ -36,7 +36,13 @@ is the amount of time to spend visiting the important location
  | Chennai          | Tea Nagar          | 1.5 hours  |
  | Vizag            | Araku Valley       | 1 hours    |   
 
+***
+### William Shakespeare Quotes
+My two favourite quotes are "To be or not to be: Thats the question. and Be who you are not who the world wants you to be"
+> To be or not to be: Thats the question
+>> Be who you are not who the world wants you to be
 
+The author of the quote is *William Shakespeare*
 
 
 
